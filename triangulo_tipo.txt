@@ -1,0 +1,36 @@
+	2021-02-21 12:50:42.229894	
+	El triángulo con lados: l1=15.2 l2=12.2 l3=15.2
+	Es un triángulo: Isósceles
+	2021-02-21 13:07:22.119959
+	El triángulo con lados: l1=16.0 l2=25.0 l3=35.0
+	Es un triángulo: Escaleno
+	2021-02-21 13:08:12.971668
+	El triángulo con lados: l1=15.0 l2=15.0 l3=15.0
+	Es un triángulo: Equilatero
+	2021-02-21 13:08:26.535909
+	El triángulo con lados: l1=15.0 l2=26.0 l3=15.0
+	Es un triángulo: Isósceles
+	2021-02-21 13:10:56.340507
+	El triángulo con lados: l1=16.0 l2=16.0 l3=16.0
+	Es un triángulo: Equilatero
+	2021-02-21 13:17:46.809801
+	El triángulo con lados: l1=15.0 l2=15.0 l3=16.0
+	Es un triángulo: Isósceles
+	2021-02-21 19:25:41.696262
+	El triángulo con lados: l1=15.0 l2=15.0 l3=15.0
+	Es un triángulo: Equilatero
+	2021-02-21 19:25:45.833493
+	El triángulo con lados: l1=15.0 l2=16.0 l3=15.0
+	Es un triángulo: Isósceles
+	2021-02-21 19:25:49.113745
+	El triángulo con lados: l1=1.0 l2=2.0 l3=3.0
+	Es un triángulo: Escaleno
+	2021-02-27 12:37:48.934444
+	El triángulo con lados: l1=15.0 l2=15.0 l3=15.0
+	Es un triángulo: Equilatero
+	2021-02-27 12:37:59.332875
+	El triángulo con lados: l1=18.0 l2=65.0 l3=18.0
+	Es un triángulo: Isósceles
+	2021-02-27 12:38:06.551168
+	El triángulo con lados: l1=78.0 l2=45.0 l3=35.0
+	Es un triángulo: Escaleno

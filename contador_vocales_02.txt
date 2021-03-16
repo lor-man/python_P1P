@@ -1,0 +1,30 @@
+*La palabra experimentado tiene cada vocal la siguiente cantidad de veces:
+	a=1
+	e=3
+	i=1
+	o=1
+	u=0
+*La palabra pythoncurrentfile tiene cada vocal la siguiente cantidad de veces:
+	a=0
+	e=2
+	i=1
+	o=1
+	u=1
+*La palabra Damián tiene cada vocal la siguiente cantidad de veces:
+	a=2
+	e=0
+	i=1
+	o=0
+	u=0
+*La palabra taraAÁEepé tiene cada vocal la siguiente cantidad de veces:
+	a=4
+	e=3
+	i=0
+	o=0
+	u=0
+*La palabra AlejAndRO tiene cada vocal la siguiente cantidad de veces:
+	a=2
+	e=1
+	i=0
+	o=1
+	u=0

@@ -1,0 +1,9 @@
+* 	La palabra MurcielAgO tiene 5 vocales
+* 	La palabra 123asd1f23asdf1dsaf1a tiene 4 vocales
+*	La palabra toby tiene 1 vocales
+*	La palabra alejandra tiene 4 vocales
+*	La palabra TobBBBBY tiene 1 vocales
+*	La palabra AleJAnDra tiene 4 vocales
+*	La palabra AlEjanDra tiene 4 vocales
+*	La palabra MurCIelagO tiene 5 vocales
+*	La palabra Murcielago tiene 5 vocales

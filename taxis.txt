@@ -1,0 +1,18 @@
+2021-02-21 18:21:10.304511
+El vehiculo del año 2000 y kilometraje 15000 estado Mecanico
+2021-02-21 18:21:44.546234
+El vehiculo del año 2000 y kilometraje 15000 estado Mecanico
+2021-02-21 18:25:51.950148
+El vehiculo del año 2000 y kilometraje 21000 necesita ser renovado
+2021-02-21 18:26:59.647569
+El vehiculo del año 2012 y kilometraje 15000 necesita mantenimiento
+2021-02-21 18:27:45.668680
+El vehiculo del año 2013 y kilometraje 16000 necesita mantenimiento
+2021-02-21 19:55:22.177486
+El vehiculo del año 2015 y kilometraje 13000 estado Mecanico
+2021-02-27 12:36:04.099097
+El vehiculo del año 2012 y kilometraje 15000 necesita mantenimiento
+2021-02-27 12:36:19.445181
+El vehiculo del año 2000 y kilometraje 8000 estado Mecanico
+2021-02-27 12:36:44.845993
+El vehiculo del año 2015 y kilometraje 10000 se encuentra en optimas condiciones

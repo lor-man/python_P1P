@@ -1,0 +1,12 @@
+* La sumatoria desde 1 hasta 6 es: 21
+* La sumatoria desde 1 hasta 8 es: 36
+* La sumatoria desde 1 hasta 56 es: 1596
+* La sumatoria desde 1 hasta 5456 es: 14886696
+* La sumatoria desde 1 hasta 10 es: 55
+* La sumatoria desde 1 hasta 5 es: 15
+* La sumatoria desde 1 hasta 20 es: 210
+* La sumatoria desde 1 hasta 35 es: 630
+* La sumatoria desde 1 hasta 100 es: 5050
+* La sumatoria desde 1 hasta 45 es: 1035
+* La sumatoria desde 1 hasta 100 es: 5050
+* La sumatoria desde 1 hasta 356 es: 63546

@@ -1,0 +1,30 @@
+2021-02-21 16:48:49.121312
+El promedio de las notas es: 78.33333333333333 ->Aprobado
+2021-02-21 16:56:25.582866
+El promedio de las notas es: 74.66666666666666 ->Aprobado
+2021-02-21 16:56:56.397177
+El promedio de las notas es: 78.0 ->Aprobado
+2021-02-21 16:59:58.493216
+El promedio de las notas es: 82.33333333333333 ->Aprobado
+2021-02-21 17:00:08.678905
+El promedio de las notas es: 44.33333333333333 ->Reprobado
+2021-02-21 17:00:13.718734
+El promedio de las notas es: 58.666666666666664 ->Reprobado
+2021-02-21 17:00:25.531517
+El promedio de las notas es: 76.0 ->Aprobado
+2021-02-21 17:00:32.179196
+El promedio de las notas es: 32.0 ->Reprobado
+2021-02-21 17:00:36.091890
+El promedio de las notas es: 60.0 ->Aprobado
+2021-02-21 17:05:44.440651
+El promedio de las notas es: 83.66666666666666 ->Aprobado
+2021-02-21 17:09:01.839439
+El promedio de las notas es: 76.29 ->Aprobado
+2021-02-21 19:44:38.872497
+El promedio de las notas es: 81.33 ->Aprobado
+2021-02-21 19:44:48.581066
+El promedio de las notas es: 57.67 ->Reprobado
+2021-02-27 12:33:03.728603
+El promedio de las notas es: 60.33 ->Aprobado
+2021-02-27 12:33:39.629558
+El promedio de las notas es: 28.33 ->Reprobado

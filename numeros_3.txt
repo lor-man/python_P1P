@@ -1,0 +1,23 @@
+* El primero es el más grande la suma es: 30.0
+* Todos son iguales
+* El primero es el más grande la suma es: 11.0
+* El primero es el más grande la suma es: 10.0
+* El segundo es el más grande la multiplicación es: 20.0
+* El tercero es el más grande la concatenación es: 1.04.05.0
+* Todos son iguales
+* El tercer número es el diferente: 2.0
+* El segundo número es el diferente: 2.0
+* El tercero es el más grande la concatenación es: 1.02.03.0
+* El tercero es el más grande la concatenación es: 2.01.03.0
+* Todos son iguales
+* El segundo es el más grande la multiplicación es: 1312.5
+* El primero es el más grande la suma es: 118.0
+* El tercero es el más grande la concatenación es: 12.035.0356.0
+* El segundo número es el diferente: 23.0
+* Todos son iguales
+* El primero es el más grande la suma es: 20.0
+* El segundo es el más grande la multiplicación es: 57344.0
+* El tercero es el más grande la concatenación es: 15.045.0128.0
+* El primero es el más grande la suma es: 27.5
+* El tercer número es el diferente: 3.0
+* Todos son iguales

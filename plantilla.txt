@@ -1,0 +1,38 @@
+import psycopg2 as ps
+print("<Nombre de programa>")
+salir = False
+
+def txt_w(resultado):
+        try:
+            with open('<nombre de archivo>.txt','a',newline='',encoding = 'utf-8') as file:
+                file.write(resultado+"\n")
+        except Exception as exc0:
+            print(str(exc0) + "\n No se puede leer el archivo .txt")
+
+def postgres_insert(<Argumentos>):
+    conexion=None
+    try:
+        conexion=ps.connect(database="python",user="postgres",password="123456",host="172.26.16.1",port="5432")
+        cursor=conexion.cursor()
+        cursor.execute("""INSERT INTO public.<Nombre de tabla>(<Nombre de columnas>)
+        VALUES(nextval('pk_<Generador de llave primaria>'),<Argumentos %s>)""",(<argumentos>))
+        conexion.commit()
+        cursor.close()
+    except (Exception,ps.DatabaseError) as exc:
+        print(exc)
+        print("Conexion con base de datos fallida")
+    finally:
+        if conexion is not None:
+            conexion.close()
+
+while(salir!=True):
+    try:
+        opc=str(input("<Mensaje de inicio>\n ->"))
+        if(opc.lower()=="s"):
+        #Programa y demas    
+        elif(opc.lower()=="n"):
+            salir=True
+        else:
+            print("Opcion invalida elige otra!!!")
+    except Exception as exc:
+        print(str(exc)+"\n Algo va mal")

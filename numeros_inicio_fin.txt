@@ -1,0 +1,34 @@
+* Numeros de 2 en 2 desde 5 hasta 16:
+	[5, 7, 9, 11, 13, 15, 17]
+* Numeros de 2 en 2 desde -10 hasta 20:
+	[-10, -8, -6, -4, -2, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+* Numeros de 2 en 2 desde 5 hasta 16:
+	[5, 7, 9, 11, 13, 15, 17]
+* Numeros de 2 en 2 desde 4 hasta 16:
+	[4, 6, 8, 10, 12, 14, 16]
+* Numeros de 2 en 2 desde 5 hasta 16:
+	[5, 7, 9, 11, 13, 15]
+* Numeros de 2 en 2 desde 4 hasta 16:
+	[4, 6, 8, 10, 12, 14, 16]
+* Numeros de 2 en 2 desde -5 hasta 16:
+	[-5, -3, -1, 1, 3, 5, 7, 9, 11, 13, 15]
+* Numeros de 2 en 2 desde -4 hasta 16:
+	[-4, -2, 0, 2, 4, 6, 8, 10, 12, 14, 16]
+* Numeros de 2 en 2 desde 2 hasta 18:
+	[2, 4, 6, 8, 10, 12, 14, 16, 18]
+* Numeros de 2 en 2 desde 3 hasta 18:
+	[3, 5, 7, 9, 11, 13, 15, 17]
+* Numeros de 2 en 2 desde 3 hasta 17:
+	[3, 5, 7, 9, 11, 13, 15, 17]
+* Numeros de 2 en 2 desde 3 hasta 18:
+	[3, 5, 7, 9, 11, 13, 15, 17]
+* Numeros de 2 en 2 desde 15 hasta 26:
+	[15, 17, 19, 21, 23, 25]
+* Numeros de 2 en 2 desde 5 hasta 16:
+	[5, 7, 9, 11, 13, 15]
+* Numeros de 2 en 2 desde 2 hasta 10:
+	[2, 4, 6, 8, 10]
+* Numeros de 2 en 2 desde 1 hasta 28:
+	[1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27]
+* Numeros de 2 en 2 desde -15 hasta 11:
+	[-15, -13, -11, -9, -7, -5, -3, -1, 1, 3, 5, 7, 9, 11]
